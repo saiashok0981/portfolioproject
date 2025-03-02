@@ -31,7 +31,8 @@ Tools Used: SQL, Python
 * Removed duplicate records using `ROW_NUMBER()` and deleted unused columns.
 * Performed exploratory data analysis (EDA) to uncover key insights.🚀
 
-3️⃣ Project Name - Movies Correlation 
+3️⃣ Project Name - Movies Correlation
+
 Tools Used: Python (Pandas, NumPy, Matplotlib, Seaborn)  
 
 - Imported and processed movie dataset using libraries like Pandas and NumPy.  
