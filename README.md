@@ -16,7 +16,7 @@ Data Processing: Excel, Pandas, SQL
 1️⃣ Project Name - covid 19 analysis
 Tools Used: SQL, Python, Tableau
 
-* Cleaned and transformed raw sales data
+* Cleaned and transformed raw data
 * Performed exploratory data analysis (EDA) to find key insights
 * Built interactive dashboards for business decision-making
 * check it out ! https://public.tableau.com/app/profile/saiashok.karadi/viz/coviddashboard_17405063384210/Dashboard1
