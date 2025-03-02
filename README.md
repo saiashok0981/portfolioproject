@@ -31,8 +31,19 @@ Tools Used: SQL, Python
 * Removed duplicate records using `ROW_NUMBER()` and deleted unused columns.
 * Performed exploratory data analysis (EDA) to uncover key insights.🚀
 
-🚀 How to Use This Repository
+3️⃣ Project Name - Movies Correlation 
+Tools Used: Python (Pandas, NumPy, Matplotlib, Seaborn)  
 
+- Imported and processed movie dataset using libraries like Pandas and NumPy.  
+- Converted column data types (e.g., changing object types to numeric for analysis).  
+- Identified and removed duplicate records to ensure data accuracy.  
+- Created scatter plots to visualize relationships between key variables (e.g., budget vs. revenue).  
+- Analyzed trends to understand patterns in movie performance.  
+- Built a correlation table using a heatmap to identify strong relationships between features.  
+- Derived insights on factors influencing movie success using data visualization. 🚀
+
+
+How to Use This Repository
 1) Clone this repository: git clone https://github.com/saiashok0981/portfolioproject.git
 2) Explore individual project folders, each containing SQL scripts, and dashboards.
 
