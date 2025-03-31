@@ -35,14 +35,25 @@ Tools Used: SQL, Python
 
 Tools Used: Python (Pandas, NumPy, Matplotlib, Seaborn)  
 
-- Imported and processed movie dataset using libraries like Pandas and NumPy.  
-- Converted column data types (e.g., changing object types to numeric for analysis).  
-- Identified and removed duplicate records to ensure data accuracy.  
-- Created scatter plots to visualize relationships between key variables (e.g., budget vs. revenue).  
-- Analyzed trends to understand patterns in movie performance.  
-- Built a correlation table using a heatmap to identify strong relationships between features.  
-- Derived insights on factors influencing movie success using data visualization. 🚀
+* Imported and processed movie dataset using libraries like Pandas and NumPy.  
+* Converted column data types (e.g., changing object types to numeric for analysis).  
+* Identified and removed duplicate records to ensure data accuracy.  
+* Created scatter plots to visualize relationships between key variables (e.g., budget vs. revenue).  
+* Analyzed trends to understand patterns in movie performance.  
+* Built a correlation table using a heatmap to identify strong relationships between features.  
+* Derived insights on factors influencing movie success using data visualization. 🚀
 
+4️⃣ Project Name - Layoff Data Analysis  
+
+Tools Used: MySQL (CTEs, Window Functions, Aggregations)  
+
+* Imported and processed layoff dataset using SQL queries.  
+* Created staging tables and applied row numbering to remove duplicate records.  
+* Standardized data fields (e.g., trimming company names, unifying industry labels).  
+* Handled missing values by cross-referencing related records.  
+* Performed exploratory data analysis to identify trends in layoffs by company, industry, country, and year.  
+* Used window functions to calculate rolling totals and rank top companies by layoffs.  
+* Extracted key insights into workforce reductions across different sectors and time periods. 🚀  
 
 How to Use This Repository
 1) Clone this repository: git clone https://github.com/saiashok0981/portfolioproject.git
